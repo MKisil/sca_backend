@@ -28,8 +28,8 @@ Follow these instructions to get the project up and running on your local machin
 
 Once the application is running, you can access it at:
 
-- Main application: [http://127.0.0.1:8000](http://127.0.0.1:8001)
-- API documentation: [http://127.0.0.1:8000/docs](http://127.0.0.1:8001/docs)
+- Main application: [http://127.0.0.1:8001](http://127.0.0.1:8001)
+- API documentation: [http://127.0.0.1:8001/docs](http://127.0.0.1:8001/docs)
 
 *when creating a spy cat object, you need to specify the breed id from api.thecatapi.com/v1/breeds
 
